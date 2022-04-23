@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://seki2020.github.io/csb-sx98kb/static/js/main.5ebdb003.chunk.js",
+    "main.js.map": "https://seki2020.github.io/csb-sx98kb/static/js/main.5ebdb003.chunk.js.map",
+    "runtime-main.js": "https://seki2020.github.io/csb-sx98kb/static/js/runtime-main.06fe6236.js",
+    "runtime-main.js.map": "https://seki2020.github.io/csb-sx98kb/static/js/runtime-main.06fe6236.js.map",
+    "static/js/2.132528bb.chunk.js": "https://seki2020.github.io/csb-sx98kb/static/js/2.132528bb.chunk.js",
+    "static/js/2.132528bb.chunk.js.map": "https://seki2020.github.io/csb-sx98kb/static/js/2.132528bb.chunk.js.map",
+    "index.html": "https://seki2020.github.io/csb-sx98kb/index.html",
+    "static/js/2.132528bb.chunk.js.LICENSE.txt": "https://seki2020.github.io/csb-sx98kb/static/js/2.132528bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06fe6236.js",
+    "static/js/2.132528bb.chunk.js",
+    "static/js/main.5ebdb003.chunk.js"
+  ]
+}
